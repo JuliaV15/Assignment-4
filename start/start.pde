@@ -66,6 +66,7 @@ void draw() {
   rect(155, 355, 20, 60);
   rect(225, 355, 20, 60);
   popMatrix();
+  
    // missiles //
-  image(pewpew, 100, 100, 20, 100);
+
 }
